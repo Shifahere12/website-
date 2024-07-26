@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY WATCHES</title>
+</head>
+<body>
+
+<h1><center>AMAZING WATCHES</center></h1>
+<hr></hr>
+<center><img src="Rolex-Explorer-Ref-214270.jpg" width="500px" alt="watch"/></center>
+
+ <p> watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps, or any other kind of bracelet. A pocket watch is designed for a person to carry in a pocket, often attached to a chain.</p>
+    <ul>
+  <li>amazing</li> 
+  <li>women</li>
+  <li>watch</li>
+</ul>
+<h3><dt>women rolex watches</dt></h3> <a href="https://simple.wikipedia.org/wiki/Watch">visit wikipedia</a>
+<ol>
+  <li>Amazing</li>
+  <li>Women</li>
+  <li>Watch</li>
+</ol>
+<hr></hr>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>ROLEX</td>
+    <td>CITIZEN</td>
+    <td>CARTIER</td>
+  </tr>
+  <tr>
+    <td>ROLEX</td>
+    <td>CITIZEN</td>
+    <td>CARTIER</td>
+  </tr>
+</table>
+</body>
+</html>
